@@ -1,2 +1,4 @@
-# study-gamifier
-A project that enables gamification of studying, with many tools built in to enhance studying and management of time/schedules.
+# Study Gamifier
+## Summary of Study Gamifier
+With this project I aim to make a fully-fledged application that uses AI to analyze and gamify the users experience in regards to accomplishing deep and meaningful study.
+The project will be made using Typescript for the User Interface, while using a lightweight database system with **protobuf** and a simple Back-End API with Python.
