@@ -5,6 +5,6 @@ The project will be made using Typescript for the User Interface, while using a 
 
 This is a new Commit in the function branch
 
-Lets say this is Function 1 with the desired result:
+Lets say this is Function 1 with the unwanted result:
 
-# Beautiful Text
+Ugly Text
